@@ -1,0 +1,35 @@
+{
+  
+  "name": "glazy.db",
+  "version": "1.0.1",
+  "author": "klaus",
+  "description": "Json , Yaml , Mongo Destekleyen Database Modülü! ",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run"
+   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nicat-dcw/resystudios-weather"
+  },
+
+  "dependencies": {
+    "express": "^4.17.1",
+    "fs": "^0.0.2",
+    "quickmongo": "^5.1.2",
+    "yaml": "^1.10.2"
+  },
+  "engines": {
+    "node": "14.x"
+  },
+  "license": "ISC",
+  "keywords": [
+    "JsonDB",
+    "YamlDB",
+      "MongoDB",
+    "Database",
+    "klaus",
+    "DiscordBot"
+  ]
+}
+

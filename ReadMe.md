@@ -56,7 +56,7 @@ content: "VeriTabanı Aktifleştirildi! "
 
 ```js
 - Veriyi kaydetmek:
-db.push("value", {Developer: "Nicat-dcw"})
+db.push("value", {Developer: "Klaus"})
  ```
 
 
